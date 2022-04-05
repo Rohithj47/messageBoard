@@ -15,7 +15,7 @@
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
   },
-  "engines": { "node": "10.x.y" },
+  "engines": { "node": "16.14.0" },
   "devDependencies": {
     "nodemon": "^2.0.15"
   }
